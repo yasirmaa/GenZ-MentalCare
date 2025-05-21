@@ -16,7 +16,7 @@ const HelpGenZ: React.FC = () => {
             name="Jimmy Hardjo, M.Psi." 
             title="Psikolog Klinis"
             specialty="Kecemasan & Depresi" 
-            image="src/components/image/jimmy.jpeg"
+            image="@/src/components/image/jimmy.jpeg"
             profileUrl="https://darinaaren.github.io/ProfilGenZ/Profil%20Psikolog%20Jimmy.html"
           />
           
